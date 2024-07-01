@@ -1,0 +1,190 @@
+{
+    "aboutMe":"Distinguished by a fervent passion for music production and an insatiable curiosity for the ever-evolving realm of computer technology, I am a results-driven individual with a proven track record of excellence. Renowned for my unwavering dedication and tireless work ethic, I thrive in collaborative environments where my enthusiasm for both music and technology can flourish. With a keen eye for detail and a knack for problem-solving, I consistently deliver high-quality outcomes while actively contributing to team success. My journey in the field of technology began with rigorous training and certification from Northlink College, where I honed my skills and solidified my foundation. Currently, I am furthering my expertise at Life Choices coding academy, immersing myself in the intricacies of coding and software development. This dual focus on music production and technology not only fuels my professional aspirations but also fosters a holistic approach to innovation and creativity. I am deeply committed to lifelong learning and continuous improvement, constantly seeking opportunities to expand my knowledge and skill set. With a versatile skill set and a passion for excellence, I am poised to make a significant impact in any endeavor I undertake"
+    ,
+    "projects":[
+        {
+            "name":"Calculator",    
+            "github":"https://github.com/jayden220/calculator-project.git",
+            "vercel":"https://calculator-project-wine.vercel.app/",
+            "description":"I used Javascript, CSS and HTML to create a functional calculator",
+            "image":"URL"
+        },
+        {
+            "name":"Hulu Clone",
+            "github":"https://github.com/jayden220/hulu-clone-project.git",
+            "vercel":"https://hulu-clone-project-omega.vercel.app/",
+            "description":"This is an HTML project where I created a clone of the HULU streaming website",
+            "image":"URL"
+        },
+        {
+            "name":"Temp Converter",
+            "github":"https://github.com/jayden220/TempCon.git",
+            "vercel":"https://temp-con.vercel.app/",
+            "description":"This is a JavaScript project where a user inputs the temperature in celcius and it converts to farenheit",
+            "image":"URL"
+        },
+        {
+            "name":"My Portfolio",
+            "github":"https://github.com/jayden220/project-1.git",
+            "vercel":"https://project-1-one-mocha.vercel.app/#education",
+            "description":"In this projected I created a basic design for my portfolio using CSS and HTML",
+            "image":"URL"
+        },
+        {
+            "name":"Years To Days",
+            "github":"https://github.com/jayden220/Years2days.git",
+            "vercel":"https://years2days.vercel.app/",
+            "description":"This is a JavaScript project where a user inputs an amount of years and it converts to days",
+            "image":"URL"
+        },
+        {
+            "name":"Keyboard",
+            "github":"https://github.com/jayden220/keyboard.git",
+            "vercel":"https://keyboard-project-nine.vercel.app/",
+            "description":"In this project a created a wood design keyboard using HTML and CSS",
+            "image":"URL"
+        },
+        {
+            "name":"RGB To Hexadecimal",
+            "github":"https://github.com/jayden220/RGB2HEX.git",
+            "vercel":"https://rgb-2-hex.vercel.app/",
+            "description":"This is a converter that changes RGB color codes into a Hexadecimal value",
+            "image":"URL"
+        }
+    ],
+    "education":[
+        {
+            "description":"Currently enrolled in a comprehensive coding program, focusing on software development, web development, and advanced programming languages.",
+            "year": "2nd April - present",
+            "placeOfInstitution":"Life Choice Academy",
+            "contact":[
+                {
+                    "name": "Matthew",
+                    "contactDetails":""
+                }
+            ]
+        },
+        {
+            "description":"Matriculated with Bachelors",
+            "year": "2018 - 2022",
+            "placeOfInstitution":"HTS Bellville",
+            "extra":[
+                {"extra": "Chess"},
+                {"extra2":"MMA"},
+                {"extra3":"Media Team"}
+            ],
+            "contact":[
+                {"contactDetails":""}
+            ]
+        },
+        {
+            "description":"Started my IT career and gained computer and technology knowledge",
+            "year": "Januanry - December 2023",
+            "placeOfInstitution":"Northlink College",
+            "qualifications":[
+
+                {"qual1":"Comptia A+ Certification","qualimg": "img"},
+                {
+                    "qual2":"Comptia IT Operations Speialist Stackable Certification","qualimg": "img"},
+                {
+                    "qual3":"Comptia N+ Certification","qualimg": "img"},
+                {
+                    "qual4":"Cisco IT essentials","qualimg": "img"},
+                {
+                    "qual5":"Cisco Cybersecurity","qualimg": "img"}
+
+            ],
+            "contact":[
+                {
+                    "contactDetails":"Giovanni Fredricks - 023 033 5555"
+                }
+            ]
+        }
+    ],
+    "techskills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"CSS",
+            "image":"URL"
+        },
+        {
+            "name":"BootStap",
+            "image":"URL"
+        },
+        {
+            "name":"JavaScript",
+            "image":"URL"
+        },
+        {
+            "name":"Vue",
+            "image":"URL"
+        },
+        {
+            "name":"GitHub",
+            "image":"URL"
+        }
+    ],
+    "softskills":[
+        {
+            "name":"Communication",
+            "description":"Excellent verbal and written communication skills"
+        },
+        {
+            "name":"Teamwork",
+            "description":"Proven ability to collaborate effectively in team environments"
+        },
+        {
+            "name":"Problem Solving",
+            "description":"Strong analytical and problem solving skills"
+        },
+        {
+            "name":"Desire to learn",
+            "description":"Eagerness to aquire new skills and knowledge , continuosly seeking opportunities for growth and development"
+        },
+        {
+            "name":"Time Management",
+            "description":"Efficiently manage time and prioritize tasks"
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Elvin Harris",
+            "position":"CEO",
+            "message":"Jayden is a beacon of determination and intelligence in the realm of software development. While his words may be few, his actions resonate with profound meaning, speaking volumes about his character and capabilities. Behind his quiet demeanor lies a mind sharp as a razor, tirelessly deciphering the complexities of code with unwavering resolve. It's his determination that sets him apart, driving him to surmount challenges that would deter the faint-hearted. As his peer, I've come to admire his silent strength and the depth of wisdom concealed within his quietude.",
+            "image":"URL"
+        },
+        {
+            "name":"Tyra Parring",
+            "position":"",
+            "message":"Working with Jayden was an absolute pleasure. His dedication to excellence and attention to detail were evident in every project we collaborated on. Not only did he bring a high level of technical expertise to the table, but their strong communication skills and ability to problem-solve effectively made them an invaluable asset to our team.",
+            "image":"URL"
+        },
+        {
+            "name":"Daniel Umetor",
+            "position":"",
+            "message":"I’ve had the pleasure of knowing Jayden for several years, and his dedication to personal and professional growth is truly inspiring. Whether it’s mastering a new programming language or refining his music production skills, Jayden approaches every challenge with enthusiasm and determination. His commitment to continuous learning and self-improvement sets them apart, and I have no doubt that he will achieve great success in their career",
+            "image":"URL"
+        },
+        {
+            "name":"Chloe Smith",
+            "position":"",
+            "message":"“As a team member, Jayden consistently went above and beyond to ensure the success of our projects. His ability to adapt to changing requirements and find innovative solutions to complex problems was instrumental in overcoming challenges and delivering exceptional results. Jayden’s positive attitude and willingness to help others made him a valuable asset to our team dynamic, and I would welcome the opportunity to work with him again in the future.",
+            "image":"URL"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        },
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        }
+    ]
+}
