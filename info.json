@@ -81,15 +81,15 @@
             "placeOfInstitution":"Northlink College",
             "qualifications":[
 
-                {"qual1":"Comptia A+ Certification","qualimg": "img"},
+                {"qual1":"Comptia A+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-a-ce-certification.1.png"},
                 {
-                    "qual2":"Comptia IT Operations Speialist Stackable Certification","qualimg": "img"},
+                    "qual2":"Comptia IT Operations Speialist Stackable Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-it-operations-specialist-cios-stackable-certification.png"},
                 {
-                    "qual3":"Comptia N+ Certification","qualimg": "img"},
+                    "qual3":"Comptia N+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-network-ce-certification.1.png"},
                 {
-                    "qual4":"Cisco IT essentials","qualimg": "img"},
+                    "qual4":"Cisco IT essentials"},
                 {
-                    "qual5":"Cisco Cybersecurity","qualimg": "img"}
+                    "qual5":"Cisco Cybersecurity","qualimg": "https://jayden220.github.io/hostedImages/cybersecurity-essentials.png"}
 
             ]
             
