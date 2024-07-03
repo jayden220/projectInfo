@@ -69,9 +69,9 @@
             "year": "2018 - 2022",
             "placeOfInstitution":"HTS Bellville",
             "extra":[
-                {"extra": "Chess"},
-                {"extra2":"MMA"},
-                {"extra3":"Media Team"}
+                {"name": "Chess"},
+                {"name":"MMA"},
+                {"name":"Media Team"}
             ]
             
         },
@@ -81,15 +81,15 @@
             "placeOfInstitution":"Northlink College",
             "qualifications":[
 
-                {"qual1":"Comptia A+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-a-ce-certification.1.png"},
+                {"qual":"Comptia A+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-a-ce-certification.1.png"},
                 {
-                    "qual2":"Comptia IT Operations Speialist Stackable Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-it-operations-specialist-cios-stackable-certification.png"},
+                    "qual":"Comptia IT Operations Speialist Stackable Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-it-operations-specialist-cios-stackable-certification.png"},
                 {
-                    "qual3":"Comptia N+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-network-ce-certification.1.png"},
+                    "qual":"Comptia N+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-network-ce-certification.1.png"},
                 {
-                    "qual4":"Cisco IT essentials"},
+                    "qual":"Cisco IT essentials"},
                 {
-                    "qual5":"Cisco Cybersecurity","qualimg": "https://jayden220.github.io/hostedImages/cybersecurity-essentials.png"}
+                    "qual":"Cisco Cybersecurity","qualimg": "https://jayden220.github.io/hostedImages/cybersecurity-essentials.png"}
 
             ]
             
