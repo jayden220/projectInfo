@@ -59,7 +59,7 @@
             "placeOfInstitution":"Life Choice Academy",
             "contact":[
                 {
-                    "name": "Matthew",
+                    "name": "Matthew Brown",
                     "contactDetails":""
                 }
             ]
@@ -72,10 +72,8 @@
                 {"extra": "Chess"},
                 {"extra2":"MMA"},
                 {"extra3":"Media Team"}
-            ],
-            "contact":[
-                {"contactDetails":""}
             ]
+            
         },
         {
             "description":"Started my IT career and gained computer and technology knowledge",
@@ -93,12 +91,8 @@
                 {
                     "qual5":"Cisco Cybersecurity","qualimg": "img"}
 
-            ],
-            "contact":[
-                {
-                    "contactDetails":"Giovanni Fredricks - 023 033 5555"
-                }
             ]
+            
         }
     ],
     "techskills":[
@@ -130,23 +124,29 @@
     "softskills":[
         {
             "name":"Communication",
-            "description":"Excellent verbal and written communication skills"
+            "description":"Excellent verbal and written communication skills",
+            "image":"https://img.icons8.com/ios/50/communication--v1.png"
         },
         {
             "name":"Teamwork",
-            "description":"Proven ability to collaborate effectively in team environments"
+            "description":"Proven ability to collaborate effectively in team environments",
+            "image":""
         },
         {
             "name":"Problem Solving",
-            "description":"Strong analytical and problem solving skills"
+            "description":"Strong analytical and problem solving skills",
+            "image":""
         },
         {
             "name":"Desire to learn",
-            "description":"Eagerness to aquire new skills and knowledge , continuosly seeking opportunities for growth and development"
+            "description":"Eagerness to aquire new skills and knowledge , continuosly seeking opportunities for growth and development",
+            "image":""
         },
         {
             "name":"Time Management",
-            "description":"Efficiently manage time and prioritize tasks"
+            "description":"Efficiently manage time and prioritize tasks",
+            "image":""
+
         }
     ],
     "testimonials":[
@@ -171,7 +171,7 @@
         {
             "name":"Chloe Smith",
             "position":"",
-            "message":"“As a team member, Jayden consistently went above and beyond to ensure the success of our projects. His ability to adapt to changing requirements and find innovative solutions to complex problems was instrumental in overcoming challenges and delivering exceptional results. Jayden’s positive attitude and willingness to help others made him a valuable asset to our team dynamic, and I would welcome the opportunity to work with him again in the future.",
+            "message":"As a team member, Jayden consistently went above and beyond to ensure the success of our projects. His ability to adapt to changing requirements and find innovative solutions to complex problems was instrumental in overcoming challenges and delivering exceptional results. Jayden’s positive attitude and willingness to help others made him a valuable asset to our team dynamic, and I would welcome the opportunity to work with him again in the future.",
             "image":"URL"
         },
         {
