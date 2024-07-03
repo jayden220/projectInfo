@@ -130,22 +130,22 @@
         {
             "name":"Teamwork",
             "description":"Proven ability to collaborate effectively in team environments",
-            "image":""
+            "image":"https://img.icons8.com/ios/50/teamwork--v1.png"
         },
         {
             "name":"Problem Solving",
             "description":"Strong analytical and problem solving skills",
-            "image":""
+            "image":"https://img.icons8.com/ios/50/creativity-and-resourcefulness.png"
         },
         {
             "name":"Desire to learn",
             "description":"Eagerness to aquire new skills and knowledge , continuosly seeking opportunities for growth and development",
-            "image":""
+            "image":"https://img.icons8.com/ios/50/willingness-to-learn.png"
         },
         {
             "name":"Time Management",
             "description":"Efficiently manage time and prioritize tasks",
-            "image":""
+            "image":"https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/68/external-time-management-productivity-concentration-smashingstocks-mixed-smashing-stocks.png" 
 
         }
     ],
