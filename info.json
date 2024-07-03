@@ -7,49 +7,49 @@
             "github":"https://github.com/jayden220/calculator-project.git",
             "vercel":"https://calculator-project-wine.vercel.app/",
             "description":"I used Javascript, CSS and HTML to create a functional calculator",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20095121.png"
         },
         {
             "name":"Hulu Clone",
             "github":"https://github.com/jayden220/hulu-clone-project.git",
             "vercel":"https://hulu-clone-project-omega.vercel.app/",
             "description":"This is an HTML project where I created a clone of the HULU streaming website",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20095057.png"
         },
         {
             "name":"Temp Converter",
             "github":"https://github.com/jayden220/TempCon.git",
             "vercel":"https://temp-con.vercel.app/",
             "description":"This is a JavaScript project where a user inputs the temperature in celcius and it converts to farenheit",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20095140.png"
         },
         {
-            "name":"My Portfolio",
-            "github":"https://github.com/jayden220/project-1.git",
-            "vercel":"https://project-1-one-mocha.vercel.app/#education",
+            "name":"E-Commerce",
+            "github":"https://github.com/jayden220/JavaScript-Project.git",
+            "vercel":"https://java-script-project-rho.vercel.app/",
             "description":"In this projected I created a basic design for my portfolio using CSS and HTML",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20094652.png"
         },
         {
-            "name":"Years To Days",
+            "name":"Age To Days",
             "github":"https://github.com/jayden220/Years2days.git",
             "vercel":"https://years2days.vercel.app/",
-            "description":"This is a JavaScript project where a user inputs an amount of years and it converts to days",
-            "image":"URL"
+            "description":"This is a JavaScript project where a user inputs any age in years and it converts to days",
+            "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20094856.png"
         },
         {
             "name":"Keyboard",
             "github":"https://github.com/jayden220/keyboard.git",
             "vercel":"https://keyboard-project-nine.vercel.app/",
             "description":"In this project a created a wood design keyboard using HTML and CSS",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20095025.png"
         },
         {
             "name":"RGB To Hexadecimal",
             "github":"https://github.com/jayden220/RGB2HEX.git",
             "vercel":"https://rgb-2-hex.vercel.app/",
             "description":"This is a converter that changes RGB color codes into a Hexadecimal value",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20095210.png"
         }
     ],
     "education":[
