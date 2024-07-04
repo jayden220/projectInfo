@@ -56,13 +56,8 @@
         {
             "description":["Currently enrolled in a comprehensive coding program, focusing on software development, web development, and advanced programming languages."],
             "year": ["2nd April - present"],
-            "placeOfInstitution":["Life Choice Academy"],
-            "contact":[
-                {
-                    "name": "Matthew Brown",
-                    "contactDetails":""
-                }
-            ]
+            "placeOfInstitution":["Life Choice Academy"]
+            
         },
         {
             "description":["Matriculated with Bachelors"],
