@@ -54,9 +54,9 @@
     ],
     "education":[
         {
-            "description":"Currently enrolled in a comprehensive coding program, focusing on software development, web development, and advanced programming languages.",
-            "year": "2nd April - present",
-            "placeOfInstitution":"Life Choice Academy",
+            "description":["Currently enrolled in a comprehensive coding program, focusing on software development, web development, and advanced programming languages."],
+            "year": ["2nd April - present"],
+            "placeOfInstitution":["Life Choice Academy"],
             "contact":[
                 {
                     "name": "Matthew Brown",
@@ -65,9 +65,9 @@
             ]
         },
         {
-            "description":"Matriculated with Bachelors",
-            "year": "2018 - 2022",
-            "placeOfInstitution":"HTS Bellville",
+            "description":["Matriculated with Bachelors"],
+            "year": ["2018 - 2022"],
+            "placeOfInstitution":["HTS Bellville"],
             "extra":[
                 {"name": "Chess"},
                 {"name":"MMA"},
@@ -76,20 +76,16 @@
             
         },
         {
-            "description":"Started my IT career and gained computer and technology knowledge",
-            "year": "Januanry - December 2023",
-            "placeOfInstitution":"Northlink College",
+            "description":["Started my IT career and gained computer and technology knowledge"],
+            "year":[ "Januanry - December 2023"],
+            "placeOfInstitution":["Northlink College"],
             "qualifications":[
 
                 {"qual":"Comptia A+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-a-ce-certification.1.png"},
-                {
-                    "qual":"Comptia IT Operations Speialist Stackable Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-it-operations-specialist-cios-stackable-certification.png"},
-                {
-                    "qual":"Comptia N+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-network-ce-certification.1.png"},
-                {
-                    "qual":"Cisco IT essentials"},
-                {
-                    "qual":"Cisco Cybersecurity","qualimg": "https://jayden220.github.io/hostedImages/cybersecurity-essentials.png"}
+                {"qual":"Comptia IT Operations Speialist Stackable Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-it-operations-specialist-cios-stackable-certification.png"},
+                {"qual":"Comptia N+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-network-ce-certification.1.png"},
+                {"qual":"Cisco IT essentials"},
+                {"qual":"Cisco Cybersecurity","qualimg": "https://jayden220.github.io/hostedImages/cybersecurity-essentials.png"}
 
             ]
             
