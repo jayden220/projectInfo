@@ -27,7 +27,7 @@
             "name":"E-Commerce",
             "github":"https://github.com/jayden220/JavaScript-Project.git",
             "vercel":"https://java-script-project-rho.vercel.app/",
-            "description":"In this projected I created a basic design for my portfolio using CSS and HTML",
+            "description":"In this project I created a basic design for my portfolio using CSS and HTML",
             "image":"https://jayden220.github.io/hostedImages/images/Screenshot%202024-07-03%20094652.png"
         },
         {
@@ -54,30 +54,26 @@
     ],
     "education":[
         {
-            "description":["Currently enrolled in a comprehensive coding program, focusing on software development, web development, and advanced programming languages."],
-            "year": ["2nd April - present"],
+            "description":["I am currently enrolled in a comprehensive coding program that emphasizes software development, web development, and advanced programming languages. This program not only enhances my technical skills but also focuses on my professional and personal development. I am excited to apply my learning to real-world projects and pursue a career in the dynamic field of technology."],
+            "year": ["April 2024 - present"],
             "placeOfInstitution":["Life Choice Academy"]
             
         },
         {
-            "description":["Matriculated with Bachelors"],
+            "description":["I successfully completed my Bachelor's matriculation. Beyond academics, I actively engaged in diverse activities, including competitive chess and Mixed Martial Arts (MMA). These pursuits not only enriched my personal development but also instilled in me valuable skills such as strategic thinking, discipline, and resilience.Additionally, I was a dedicated member of the school's media team, where I honed my communication and creative skills through various projects and responsibilities. My time at Bellville Technical High School not only prepared me academically but also fostered a well-rounded approach to learning and personal growth, laying a solid foundation for my future endeavors."],
             "year": ["2018 - 2022"],
-            "placeOfInstitution":["HTS Bellville"],
-            "extra":[
-                {"name": "Chess"},
-                {"name":"MMA"},
-                {"name":"Media Team"}
-            ]
+            "placeOfInstitution":["HTS Bellville"]
             
-        },
+            
+        },  
         {
-            "description":["Started my IT career and gained computer and technology knowledge"],
-            "year":[ "Januanry - December 2023"],
+            "description":["I began my journey into the world of IT at Northlink College, where I pursued and successfully obtained certifications in A+ and N+. These certifications have equipped me with a robust foundation in computer hardware, networking, and IT operations, essential for a career in information technology.A+ Certification: With the A+ certification, I gained comprehensive knowledge in hardware and software installation, troubleshooting, and maintenance. This certification validated my skills in handling various IT support tasks effectively.N+ Certification: The N+ certification solidified my understanding of networking concepts, including TCP/IP, routing, switching, and network troubleshooting. This credential prepared me to manage and optimize network infrastructures, a critical aspect of modern IT environments.Educational Environment: Northlink College provided an enriching educational environment with dedicated instructors and hands-on training facilities. The practical experience I gained through labs and real-world simulations complemented the theoretical knowledge acquired in the classroom.Future Directions: Armed with these certifications from Northlink College, I am prepared to embark on a dynamic career in IT. I am eager to apply my skills and continue expanding my knowledge in areas such as cybersecurity, cloud computing, and emerging technologies.Northlink College not only equipped me with technical expertise but also instilled in me a passion for continuous learning and professional growth in the ever-evolving field of information technology."],
+            "year":[ "January - December 2023"],
             "placeOfInstitution":["Northlink College"],
             "qualifications":[
 
                 {"qual":"Comptia A+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-a-ce-certification.1.png"},
-                {"qual":"Comptia IT Operations Speialist Stackable Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-it-operations-specialist-cios-stackable-certification.png"},
+                {"qual":"Comptia IT Operations Specialist Stackable Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-it-operations-specialist-cios-stackable-certification.png"},
                 {"qual":"Comptia N+ Certification","qualimg": "https://jayden220.github.io/hostedImages/images/comptia-network-ce-certification.1.png"},
                 {"qual":"Cisco Cybersecurity","qualimg": "https://jayden220.github.io/hostedImages/cybersecurity-essentials.png"}
 
@@ -95,7 +91,7 @@
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         },
         {
-            "name":"BootStap",
+            "name":"BootStrap",
             "image":"https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
         },
         {
@@ -114,12 +110,12 @@
     "softskills":[
         {
             "name":"Communication",
-            "description":"Excellent verbal and written communication skills",
+            "description":"I have honed exceptional verbal and written communication skills through coursework and practical experiences. These skills enable me to effectively convey complex technical information and collaborate seamlessly within diverse team environments, ensuring clarity and efficiency in all communications.",
             "image":"https://img.icons8.com/ios/50/communication--v1.png"
         },
         {
             "name":"Teamwork",
-            "description":"Proven ability to collaborate effectively in team environments",
+            "description":"I've developed a proven ability to collaborate effectively in team environments, fostering synergy and achieving collective goals through active participation and constructive contributions. This experience has strengthened my teamwork skills, allowing me to thrive in collaborative settings and deliver impactful results through shared efforts and mutual support.",
             "image":"https://img.icons8.com/ios/50/teamwork--v1.png"
         },
         {
@@ -129,12 +125,12 @@
         },
         {
             "name":"Desire to learn",
-            "description":"Eagerness to aquire new skills and knowledge , continuosly seeking opportunities for growth and development",
+            "description":"I have a eagerness to acquire new skills and knowledge, evidenced by my continuous pursuit of growth and development opportunities. I am dedicated to lifelong learning, constantly seeking to expand my expertise and adapt to advancements in the dynamic field of IT. This passion drives me to stay current with emerging technologies and trends, ensuring I remain a valuable asset in any professional setting.",
             "image":"https://img.icons8.com/ios/50/willingness-to-learn.png"
         },
         {
             "name":"Time Management",
-            "description":"Efficiently manage time and prioritize tasks",
+            "description":"I have developed the ability to efficiently manage time and prioritize tasks effectively. This skill allows me to meet deadlines, handle multiple responsibilities, and maintain productivity even in demanding environments. I utilize effective time management strategies to optimize workflow, ensuring tasks are completed efficiently and with high quality. This proficiency in time management enables me to consistently deliver results and contribute effectively to organizational goals.",
             "image":"https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/68/external-time-management-productivity-concentration-smashingstocks-mixed-smashing-stocks.png" 
 
         }
@@ -142,39 +138,39 @@
     "testimonials":[
         {
             "name":"Elvin Harris",
-            "position":"CEO",
+            
             "message":"Jayden is a beacon of determination and intelligence in the realm of software development. While his words may be few, his actions resonate with profound meaning, speaking volumes about his character and capabilities. Behind his quiet demeanor lies a mind sharp as a razor, tirelessly deciphering the complexities of code with unwavering resolve. It's his determination that sets him apart, driving him to surmount challenges that would deter the faint-hearted. As his peer, I've come to admire his silent strength and the depth of wisdom concealed within his quietude.",
             "image":"https://harriselvin.github.io/hostedImages/Images/Elvin-shoulders.jpg"
         },
         {
             "name":"Tyra Parring",
-            "position":"",
+            
             "message":"Working with Jayden was an absolute pleasure. His dedication to excellence and attention to detail were evident in every project we collaborated on. Not only did he bring a high level of technical expertise to the table, but their strong communication skills and ability to problem-solve effectively made them an invaluable asset to our team.",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/InShot_20240424_205858533.jpg"
         },
         {
             "name":"Daniel Umetor",
-            "position":"",
+            
             "message":"I’ve had the pleasure of knowing Jayden for several years, and his dedication to personal and professional growth is truly inspiring. Whether it’s mastering a new programming language or refining his music production skills, Jayden approaches every challenge with enthusiasm and determination. His commitment to continuous learning and self-improvement sets them apart, and I have no doubt that he will achieve great success in their career",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/danielportrait.jpg"
         },
         {
             "name":"Chloe Smith",
-            "position":"",
+            
             "message":"As a team member, Jayden consistently went above and beyond to ensure the success of our projects. His ability to adapt to changing requirements and find innovative solutions to complex problems was instrumental in overcoming challenges and delivering exceptional results. Jayden’s positive attitude and willingness to help others made him a valuable asset to our team dynamic, and I would welcome the opportunity to work with him again in the future.",
-            "image":"URL"
+            "image":"https://jayden220.github.io/hostedImages/images/i.k__5__720.png"
         },
         {
-            "name":"",
-            "position":"",
-            "message":"",
-            "image":"URL"
+            "name":"Kiara Adams",
+            
+            "message":"Jayden is a highly reliable and dedicated team member. He consistently demonstrates a strong work ethic and a positive attitude. His ability to collaborate effectively and his attention to detail make him an invaluable asset to our team. I am confident in Jayden's contributions and am grateful to work alongside him.",
+            "image":"https://jayden220.github.io/hostedImages/images/20240422_120422.jpg"
         },
         {
-            "name":"",
-            "position":"",
-            "message":"",
-            "image":"URL"
+            "name":"Matthew Brown",
+            
+            "message":"I had the privilege of mentoring Jayden during their time at Life Choices Coding Academy, and I was consistently impressed by his passion for learning and drive to succeed. He demonstrated a strong aptitude for coding and software development, quickly mastering new concepts and technologies. Jayden’s collaborative spirit and positive attitude made him a great student, and I have no doubt that he will continue to excel in their future endeavors.",
+            "image":"https://jayden220.github.io/hostedImages/images/Matthew%20(2).png"
         }
     ]
 }
