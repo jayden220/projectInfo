@@ -60,13 +60,6 @@
             
         },
         {
-            "description":["I successfully completed my Bachelor's matriculation. Beyond academics, I actively engaged in diverse activities, including competitive chess and Mixed Martial Arts (MMA). These pursuits not only enriched my personal development but also instilled in me valuable skills such as strategic thinking, discipline, and resilience.Additionally, I was a dedicated member of the school's media team, where I honed my communication and creative skills through various projects and responsibilities. My time at Bellville Technical High School not only prepared me academically but also fostered a well-rounded approach to learning and personal growth, laying a solid foundation for my future endeavors."],
-            "year": ["2018 - 2022"],
-            "placeOfInstitution":["HTS Bellville"]
-            
-            
-        },  
-        {
             "description":["I began my journey into the world of IT at Northlink College, where I pursued and successfully obtained certifications in A+ and N+. These certifications have equipped me with a robust foundation in computer hardware, networking, and IT operations, essential for a career in information technology.A+ Certification: With the A+ certification, I gained comprehensive knowledge in hardware and software installation, troubleshooting, and maintenance. This certification validated my skills in handling various IT support tasks effectively.N+ Certification: The N+ certification solidified my understanding of networking concepts, including TCP/IP, routing, switching, and network troubleshooting. This credential prepared me to manage and optimize network infrastructures, a critical aspect of modern IT environments.Educational Environment: Northlink College provided an enriching educational environment with dedicated instructors and hands-on training facilities. The practical experience I gained through labs and real-world simulations complemented the theoretical knowledge acquired in the classroom.Future Directions: Armed with these certifications from Northlink College, I am prepared to embark on a dynamic career in IT. I am eager to apply my skills and continue expanding my knowledge in areas such as cybersecurity, cloud computing, and emerging technologies.Northlink College not only equipped me with technical expertise but also instilled in me a passion for continuous learning and professional growth in the ever-evolving field of information technology."],
             "year":[ "January - December 2023"],
             "placeOfInstitution":["Northlink College"],
@@ -78,6 +71,13 @@
                 {"qual":"Cisco Cybersecurity","qualimg": "https://jayden220.github.io/hostedImages/cybersecurity-essentials.png"}
 
             ]
+            
+        },
+        {
+            "description":["I successfully completed my Bachelor's matriculation. Beyond academics, I actively engaged in diverse activities, including competitive chess and Mixed Martial Arts (MMA). These pursuits not only enriched my personal development but also instilled in me valuable skills such as strategic thinking, discipline, and resilience.Additionally, I was a dedicated member of the school's media team, where I honed my communication and creative skills through various projects and responsibilities. My time at Bellville Technical High School not only prepared me academically but also fostered a well-rounded approach to learning and personal growth, laying a solid foundation for my future endeavors."],
+            "year": ["2018 - 2022"],
+            "placeOfInstitution":["HTS Bellville"]
+            
             
         }
     ],
